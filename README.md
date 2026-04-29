@@ -1,8 +1,8 @@
 # Seminar Registration App
 
-**Nama**: [Nama Anda]  
-**NPM**: [NPM Anda]  
-**Kelas**: [Kelas Anda]  
+**Nama**: Affari Rizky Febriansyah 
+**NPM**: 24552011205  
+**Kelas**: TIF RP 24C CID  
 **Mata Kuliah**: Pemrograman Mobile – Android Studio  
 **Minggu**: UTS – Pendaftaran Seminar  
 
@@ -10,7 +10,6 @@
 
 ## 📹 Link Video Penjelasan
 
-> **[Isi link video Google Drive / YouTube di sini]**
 
 Video berisi penjelasan:
 - Halaman Login (validasi, kredensial hardcode)
@@ -19,7 +18,6 @@ Video berisi penjelasan:
 - Validasi real-time (error langsung muncul saat mengetik)
 - Dialog Konfirmasi (Ya / Tidak)
 - Halaman Hasil (ringkasan data pendaftaran)
-- Penjelasan kode
 
 ---
 
